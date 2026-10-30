@@ -11,5 +11,5 @@
    - Sri: Log interaksi LLM dan laporan
 
    ## Isi repo
-   - cGAN_FashionMNIST.ipynb: notebook utama
+   - `cGAN_FashionMNIST.ipynb`: notebook utama
    - `cGAN_Dataset_Classifier_Generate.ipynb`: Bagian 3-4 (dataset, classifier pendamping dengan akurasi test 91,47%, dan fungsi `generate`). Memuat notebook utama lewat `%run`.
